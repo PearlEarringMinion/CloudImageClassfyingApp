@@ -23,6 +23,6 @@ Decathlon plus α will tell you the name. It will show you the most likely and t
 
 # Requirements
 - swift 5
-- Xcode 12.3
+- Xcode 13.1
 
 
