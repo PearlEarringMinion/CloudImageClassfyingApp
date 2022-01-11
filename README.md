@@ -3,6 +3,12 @@
 It APP can classfying Image of cloud!
 
 # Description
+This app is an iOS app that identifies the name of a cloud and tells you when you give it an image taken with a camera or an image in the library.
+
+Decathlon plus α will tell you the name. It will show you the most likely and the second most likely. The accuracy will improve if you shoot with as few obstacles as possible other than clouds and the sky.
+
+* This app is created based on CoreML's appale official sample code.
+
 このアプリはカメラで撮影した画像もしくはライブラリにある画像を与えると
 雲の名前を判別して教えてくれるアiosアプリです。
 
